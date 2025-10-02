@@ -20,4 +20,14 @@ The dataset includes details about:
 - Sales performance by **region, product category, and time**  
 - Best-selling **products and categories**  
 - Revenue contribution by **customers and territories**  
-- Impact of **shipping methods and order status** on sales  
+- Impact of **shipping methods and order status** on sales 
+
+## Data Preview  
+
+Below is a sample from the dataset after cleaning and preparation: 
+![Excel sample](excel_sample.png)  
+
+## Power BI Report Overview  
+
+This is the main page of the Power BI report, showing sales performance across regions, products, and time:  
+![Power BI overview](dashboard_overview.png)  
